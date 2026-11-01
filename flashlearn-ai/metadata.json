@@ -1,0 +1,6 @@
+{
+  "name": "FlashLearn AI",
+  "description": "Educational flashcard generator with Study Mode for Classes 6–8 across any school subject.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
